@@ -1,7 +1,6 @@
-#se hace mas cambio
-##mas cambio aun
+# se hace mas cambio
+## mas cambio aun
 ```
-{
     <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -11,12 +10,9 @@
     <title>Bienvenido/a</title>
   </head>
   <body>
-    <h1>Bienvenido a nuestro sitio web</h1>
+    <h1>Bienvenido a mi sitio web</h1>
   </body>
 </html>
-}
 ```
 
-
-
-Se hacen aun mas cambios
+** Se hacen aun mas cambios **
